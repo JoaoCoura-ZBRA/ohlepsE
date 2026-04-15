@@ -3,7 +3,7 @@ boa noite, humanos! Coelho aqui
 eu tenho esse repositório e brinquei um pouco com ele para essa Páscoa
 
 
-deixei ovos - não de chcolate, infelizmente - escondidos pelo repositório. Cada um terá uma pista que levará para o próximo ovo
+deixei ovos - não de chocolate, infelizmente - escondidos pelo repositório. Cada um terá uma pista que levará para o próximo ovo
 é importante que anotem as respostas das pistas que acharem. Elas serão importantes no final
 
 
