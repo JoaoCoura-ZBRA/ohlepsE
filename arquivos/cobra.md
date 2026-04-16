@@ -1,4 +1,4 @@
-veja só. Você acredita que é 15- cobra? Tome cuidado, você só pode mandar a resposta até 3 vezes
+veja só. Você acredita que é 15- cobra? Tome cuidado, você só pode mandar a resposta 2 vezes
 
 se tiver certeza da sua resposta, então faça o seguinte:
 
@@ -7,4 +7,4 @@ se tiver certeza da sua resposta, então faça o seguinte:
 *1 - 6 -  10 - 2 - 14 - 15 - 12 - 4 - 9 - 15 - 11 - 5 - 13 - 8 - 3*
 
 
-*envie com espaço entre cada palavra*
+*envie com espaço entre cada palavra para o Coelho no Slack**
